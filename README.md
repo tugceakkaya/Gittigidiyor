@@ -13,15 +13,15 @@ Testing done using Selenium is usually referred to as Selenium testing. Remember
 
 
 <h3>Steps</h3>
-Go to www.gittigidiyor.com
-Check that the main page is opened.
-The login process is checked.
-Computer is entered in the search box.
-2nd page opens
-A random product is selected according to the result.
-The selected product is added to the cart.
-The number of product pieces is checked.
-If the number of products is not 2, 2 pieces are selected.
-The product price is displayed.
-The product is removed from the cart.
-Check if the basket is empty.
+*Go to www.gittigidiyor.com<br>
+*Check that the main page is opened.<br>
+*The login process is checked.<br>
+*Computer is entered in the search box.<br>
+*2nd page opens<br>
+*A random product is selected according to the result.<br>
+*The selected product is added to the cart.<br>
+*The number of product pieces is checked.<br>
+*If the number of products is not 2, 2 pieces are selected.<br>
+*The product price is displayed.<br>
+*The product is removed from the cart.<br>
+*Check if the basket is empty.<br>
