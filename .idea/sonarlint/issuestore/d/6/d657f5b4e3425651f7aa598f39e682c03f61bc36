@@ -1,0 +1,5 @@
+
+3
+java:S2187"Add some tests to this class.(žŸÒð
+b
+java:S5779%"GDon't use assertEquals() inside a try-catch catching an AssertionError.(º­¹Šùÿÿÿÿ
